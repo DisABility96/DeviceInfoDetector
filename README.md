@@ -8,7 +8,7 @@ Core Features
 - Hardware Intelligence: Accurate detection of CPU, memory, display, sensors, and camera parameters
 - Background Surveillance: Real-time tracking of app background launches with wake-up reason analysis
 - Storage Optimization: One-click cache scanning and cleaning with storage release metrics
-- Lightweight Design: <2MB footprint, no background residency, <0.5% daily battery consumption
+- Lightweight Design: No background residency, <0.5% daily battery consumption
 
 
 ScreenShots (Run using a virtual machine)

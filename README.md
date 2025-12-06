@@ -9,3 +9,6 @@ Core Features
 - Background Surveillance: Real-time tracking of app background launches with wake-up reason analysis
 - Storage Optimization: One-click cache scanning and cleaning with storage release metrics
 - Lightweight Design: <2MB footprint, no background residency, <0.5% daily battery consumption
+
+ScreenShots
+! [Pic00] (https://github.com/DisABility96/DeviceInfoDetector/blob/master/Screenshot_DevInfoMain.png)；

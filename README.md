@@ -10,16 +10,19 @@ Core Features
 - Storage Optimization: One-click cache scanning and cleaning with storage release metrics
 - Lightweight Design: <2MB footprint, no background residency, <0.5% daily battery consumption
 https://github.com/DisABility96/DeviceInfoDetector/blob/faeca6833d9b1488810942ee17f13c42494f9ed0/Screenshot_DevInfoMain.png
+
+
 ScreenShots
+
 <table>
   <tr>
-    <>
+    <!-- 1 -->
     <td align="center">
       <img src="https://github.com/DisABility96/DeviceInfoDetector/blob/faeca6833d9b1488810942ee17f13c42494f9ed0/Screenshot_DevInfoMain.png" alt="Device Info" width="90%" />
       <br>
       <em>Device Info Page</em>
     </td>
-    <>
+    <!-- 2 -->
     <td align="center">
       <img src="https://github.com/DisABility96/DeviceInfoDetector/blob/e409dfccb1933f5c06e8f9473618f84043d843e2/Screenshot_CleanPage.png" alt="v" width="90%" />
       <br>

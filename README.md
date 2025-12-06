@@ -11,4 +11,5 @@ Core Features
 - Lightweight Design: <2MB footprint, no background residency, <0.5% daily battery consumption
 
 ScreenShots
-! [Pic00] (https://github.com/DisABility96/DeviceInfoDetector/blob/master/Screenshot_DevInfoMain.png)；
+
+![Pic00](https://github.com/DisABility96/DeviceInfoDetector/blob/master/Screenshot_DevInfoMain.png)；

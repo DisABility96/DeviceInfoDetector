@@ -12,7 +12,7 @@ Core Features
 
 ScreenShots
 <p align="center">
-  <img src="[https://github.com/.../Screenshot_DevInfoMain.png](https://github.com/DisABility96/DeviceInfoDetector/blob/master/Screenshot_DevInfoMain.png)" alt="MainPage" width="450" />
+  <img src="[https://github.com/.../Screenshot_DevInfoMain.png](https://github.com/DisABility96/DeviceInfoDetector/blob/faeca6833d9b1488810942ee17f13c42494f9ed0/Screenshot_DevInfoMain.png)" alt="MainPage" width="450" />
 </p>
 
 ![Pic00](https://github.com/DisABility96/DeviceInfoDetector/blob/master/Screenshot_DevInfoMain.png)；

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Device Info Detector</string>
+
+    <!-- Tabs -->
+    <string name="tab_device_info">Device Info</string>
+    <string name="tab_bg_monitor">BG Monitor</string>
+    <string name="tab_cache_clean">Cache Clean</string>
+
+    <!-- Device Info Page -->
+    <string name="title_basic_info">Basic Info</string>
+    <string name="label_brand">Brand：</string>
+    <string name="label_model">Model：</string>
+    <string name="label_android_version">Android Version：</string>
+    <string name="title_hardware_info">Hardware Info</string>
+    <string name="label_cpu_core">CPU Cores：</string>
+    <string name="label_total_memory">Total Memory：</string>
+    <string name="label_screen_resolution">Screen Resolution：</string>
+    <string name="label_refresh_rate">Refresh Rate：</string>
+
+    <!-- BG Monitor Page -->
+    <string name="label_loading">Loading...</string>
+    <string name="btn_refresh">Refresh</string>
+    <string name="label_record_count">Today\'s BG Launch Records：%1$d</string>
+    <string name="label_app_name">App Name</string>
+    <string name="label_launch_count">Launches Today：%1$d</string>
+    <string name="label_wake_reason">Wake Reason：%1$s</string>
+    <string name="label_launch_time">Last Launch：%1$s</string>
+    <string name="reason_timer">Timer Task Wake</string>
+    <string name="reason_push">System Push Wake</string>
+    <string name="toast_open_app_info_fail">Failed to open app info</string>
+
+    <!-- Cache Clean Page -->
+    <string name="label_total_cache">Scanned %1$d apps with cache</string>
+    <string name="btn_clean">Clean Selected Apps Cache</string>
+    <string name="toast_select_app">Please select apps to clean</string>
+    <string name="toast_clean_complete">Clean completed! Released：%1$s</string>
+    <string name="label_cache_size">Cache Size：%1$s</string>
+
+    <!-- List Item -->
+    <string name="hint_select_app">Select App</string>
+    <!-- New Basic Info -->
+    <string name="label_sdk_version">SDK Version：</string>
+    <string name="label_android_id">Android ID：</string>
+    <string name="label_screen_dpi">Screen DPI：</string>
+    <string name="label_battery_level">Battery Level：</string>
+    <string name="label_battery_status">Battery Status：</string>
+    <string name="label_network_type">Network Type：</string>
+    <string name="label_total_storage">Total Storage：</string>
+    <string name="label_available_storage">Available Storage：</string>
+    <string name="label_cpu_abi">CPU ABI：</string>
+    <string name="label_rom_version">ROM Version：</string>
+    <string name="label_security_patch">Security Patch：</string>
+    <string name="label_is_rooted">Rooted：</string>
+    <string name="label_installed_app_count">Installed Apps：</string>
+    <string name="label_available_ram">Available RAM：</string>
+    <string name="label_build_fingerprint">Build Fingerprint：</string>
+    <string name="label_charging_status">Charging Status：</string>
+    <string name="label_battery_health">Battery Health：</string>
+    <string name="label_time_zone">Time Zone：</string>
+    <string name="label_language">System Language：</string>
+    <string name="label_hardware">Hardware Name：</string>
+    <string name="label_board">Board Model：</string>
+    <string name="label_display_size">Screen Size：</string>
+
+    <!-- Status Text -->
+    <string name="status_charging">Charging</string>
+    <string name="status_not_charging">Not Charging</string>
+    <string name="status_full">Full</string>
+    <string name="battery_health_good">Good</string>
+    <string name="battery_health_unknown">Unknown</string>
+    <string name="battery_health_bad">Abnormal</string>
+    <string name="network_type_wifi">Wi-Fi</string>
+    <string name="network_type_mobile">Mobile Data</string>
+    <string name="network_type_none">No Network</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <!-- Category Titles -->
+    <string name="title_storage_info">Storage Info</string>
+    <string name="title_battery_info">Battery Info</string>
+    <string name="title_network_info">Network Info</string>
+    <string name="title_app_info">App Info</string>
+    <string name="title_system_info">System Info</string>
+    <!-- CPU Info New -->
+    <string name="label_cpu_model">CPU Model：</string>
+
+    <!-- Network Info New -->
+    <string name="label_connection_speed">Connection Speed：</string>
+    <string name="label_wifi_standard">WiFi Standard：</string>
+    <string name="label_domain_name">Domain Name：</string>
+    <string name="label_operator_country">Operator Country/Area：</string>
+    <string name="label_support_5g_4g">Network Support：</string>
+    <string name="support_5g_4g">5G/4G</string>
+    <string name="support_4g_only">4G Only</string>
+    <string name="support_3g_only">3G Only</string>
+
+    <!-- Camera Info New -->
+    <string name="title_camera_info">Camera Info</string>
+    <string name="label_camera_sensor_size">Sensor Size：</string>
+    <string name="label_camera_effective_pixels">Effective Pixels：</string>
+    <string name="label_camera_resolution">Max Resolution：</string>
+    <string name="label_camera_equivalent_focal">Equivalent Focal Length：</string>
+    <string name="label_camera_shutter_speed">Shutter Speed Range：</string>
+    <string name="label_camera_ois">Optical Image Stabilization：</string>
+
+    <!-- System Info Supplement -->
+    <string name="label_device_model_full">Full Device Model：</string>
+    <string name="label_bluetooth_ver">Bluetooth Version：</string>
+
+    <!-- Status Supplement -->
+    <string name="wifi_standard_wifi7">WiFi 7</string>
+    <string name="wifi_standard_wifi6">WiFi 6/6E</string>
+    <string name="wifi_standard_wifi5">WiFi 5</string>
+    <string name="wifi_standard_wifi4">WiFi 4</string>
+    <string name="status_supported">Supported</string>
+    <string name="status_not_supported">Not Supported</string>
+    <string name="camera_info_unknown">Unknown</string>
+
+    <!-- Missing Hardware/System Info -->
+    <string name="label_manufacturer">Manufacturer：</string>
+
+    <!-- Missing Network Info -->
+    <string name="label_ipv4_address">Internal IPv4：</string>
+    <string name="label_signal_strength">Signal Strength：</string>
+    <string name="label_network_operator">Operator：</string>
+
+
+    <!-- Missing App Info -->
+    <string name="label_system_app_count">System Apps：</string>
+    <string name="label_user_app_count">User Apps：</string>
+    <string name="label_app_total_size">Total User App Size：</string>
+    <string name="status_unknown">Unknown</string>
+    <string name="supported">supported</string>
+    <string name="not_supported">not_supported</string>
+
+
+    <string name="status_loading">Loading...</string>
+</resources>

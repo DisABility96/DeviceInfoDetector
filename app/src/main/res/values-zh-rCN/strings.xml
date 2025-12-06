@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 应用名称 -->
+    <string name="app_name">设备信息检测工具</string>
+
+    <!-- 底部Tab -->
+    <string name="tab_device_info">设备信息</string>
+    <string name="tab_bg_monitor">后台监控</string>
+    <string name="tab_cache_clean">缓存清理</string>
+
+    <!-- 设备信息页面 -->
+    <string name="title_basic_info">基础信息</string>
+    <string name="label_brand">设备品牌：</string>
+    <string name="label_model">设备型号：</string>
+    <string name="label_android_version">Android版本：</string>
+    <string name="title_hardware_info">硬件信息</string>
+    <string name="label_cpu_core">CPU核心数：</string>
+    <string name="label_total_memory">总内存：</string>
+    <string name="label_screen_resolution">屏幕分辨率：</string>
+    <string name="label_refresh_rate">屏幕刷新率：</string>
+
+    <!-- 后台监控页面 -->
+    <string name="label_loading">加载中...</string>
+    <string name="btn_refresh">刷新</string>
+    <string name="label_record_count">今日后台启动记录：%1$d 条</string>
+    <string name="label_app_name">应用名称</string>
+    <string name="label_launch_count">今日启动：%1$d 次</string>
+    <string name="label_wake_reason">唤醒原因：%1$s</string>
+    <string name="label_launch_time">最近启动：%1$s</string>
+    <string name="reason_timer">定时任务唤醒</string>
+    <string name="reason_push">系统推送唤醒</string>
+    <string name="toast_open_app_info_fail">无法打开应用信息页</string>
+
+    <!-- 缓存清理页面 -->
+    <string name="label_total_cache">共扫描到 %1$d 个应用缓存</string>
+    <string name="btn_clean">一键清理选中应用缓存</string>
+    <string name="toast_select_app">请选择要清理的应用</string>
+    <string name="toast_clean_complete">清理完成！释放空间：%1$s</string>
+    <string name="label_cache_size">缓存大小：%1$s</string>
+
+    <!-- 列表项 -->
+    <string name="hint_select_app">选择应用</string>
+    <!-- 新增基础信息 -->
+    <string name="label_sdk_version">SDK版本：</string>
+    <string name="label_android_id">Android ID：</string>
+    <string name="label_screen_dpi">屏幕密度：</string>
+    <string name="label_battery_level">电池电量：</string>
+    <string name="label_battery_status">充电状态：</string>
+    <string name="label_network_type">网络类型：</string>
+    <string name="label_total_storage">总存储空间：</string>
+    <string name="label_available_storage">可用存储空间：</string>
+    <string name="label_cpu_abi">CPU架构：</string>
+    <string name="label_rom_version">ROM版本：</string>
+    <string name="label_security_patch">安全补丁：</string>
+    <string name="label_is_rooted">是否ROOT：</string>
+    <string name="label_installed_app_count">已装应用数：</string>
+    <string name="label_available_ram">可用内存：</string>
+    <string name="label_build_fingerprint">Build指纹：</string>
+    <string name="label_charging_status">充电状态：</string>
+    <string name="label_battery_health">电池健康：</string>
+    <string name="label_time_zone">时区：</string>
+    <string name="label_language">系统语言：</string>
+    <string name="label_hardware">硬件名称：</string>
+    <string name="label_board">主板型号：</string>
+    <string name="label_display_size">屏幕尺寸：</string>
+
+    <!-- 状态文字 -->
+    <string name="status_charging">充电中</string>
+    <string name="status_not_charging">未充电</string>
+    <string name="status_full">已充满</string>
+    <string name="battery_health_good">良好</string>
+    <string name="battery_health_unknown">未知</string>
+    <string name="battery_health_bad">异常</string>
+    <string name="network_type_wifi">Wi-Fi</string>
+    <string name="network_type_mobile">移动数据</string>
+    <string name="network_type_none">无网络</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+
+    <!-- 分类标题 -->
+    <string name="title_storage_info">存储信息</string>
+    <string name="title_battery_info">电池信息</string>
+    <string name="title_network_info">网络信息</string>
+    <string name="title_app_info">应用信息</string>
+    <string name="title_system_info">系统信息</string>
+    <!-- CPU信息新增 -->
+    <string name="label_cpu_model">CPU具体型号：</string>
+
+    <!-- 网络信息新增 -->
+    <string name="label_connection_speed">连接速度：</string>
+    <string name="label_wifi_standard">WiFi标准：</string>
+    <string name="label_domain_name">域名：</string>
+    <string name="label_operator_country">运营商国家/地区：</string>
+    <string name="label_support_5g_4g">网络制式支持：</string>
+    <string name="support_5g_4g">5G/4G</string>
+    <string name="support_4g_only">仅4G</string>
+    <string name="support_3g_only">仅3G</string>
+
+    <!-- 相机信息新增 -->
+    <string name="title_camera_info">相机信息</string>
+    <string name="label_camera_sensor_size">传感器尺寸：</string>
+    <string name="label_camera_effective_pixels">有效像素：</string>
+    <string name="label_camera_resolution">最高分辨率：</string>
+    <string name="label_camera_equivalent_focal">等效焦距：</string>
+    <string name="label_camera_shutter_speed">快门速度范围：</string>
+    <string name="label_camera_ois">光学防抖(OIS)：</string>
+
+    <!-- 系统信息补充 -->
+    <string name="label_device_model_full">设备完整型号：</string>
+    <string name="label_bluetooth_ver">蓝牙版本：</string>
+
+    <!-- 状态补充 -->
+    <string name="wifi_standard_wifi7">WiFi 7</string>
+    <string name="wifi_standard_wifi6">WiFi 6/6E</string>
+    <string name="wifi_standard_wifi5">WiFi 5</string>
+    <string name="wifi_standard_wifi4">WiFi 4</string>
+    <string name="status_supported">支持</string>
+    <string name="status_not_supported">不支持</string>
+    <string name="camera_info_unknown">未知</string>
+
+    <!-- 缺失的硬件/系统信息 -->
+    <string name="label_manufacturer">设备制造商：</string>
+
+    <!-- 缺失的网络信息 -->
+    <string name="label_ipv4_address">内网IPv4：</string>
+    <string name="label_signal_strength">信号强度：</string>
+    <string name="label_network_operator">运营商：</string>
+
+    <!-- 缺失的应用信息 -->
+    <string name="label_system_app_count">系统应用数：</string>
+    <string name="label_user_app_count">用户应用数：</string>
+    <string name="label_app_total_size">用户应用总大小：</string>
+
+    <!-- 设备信息相关 -->
+    <string name="status_unknown">未知</string>
+    <string name="supported">支持</string>
+    <string name="not_supported">不支持</string>
+    <string name="status_loading">加载中...</string>
+</resources>

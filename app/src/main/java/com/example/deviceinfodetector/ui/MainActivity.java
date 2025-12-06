@@ -4,7 +4,6 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentPagerAdapter;
-import androidx.viewpager.widget.ViewPager;
 
 import android.os.Bundle;
 
@@ -13,7 +12,6 @@ import com.example.deviceinfodetector.databinding.ActivityMainBinding;
 import com.example.deviceinfodetector.ui.fragment.DeviceInfoFragment;
 import com.example.deviceinfodetector.ui.fragment.AppBgMonitorFragment;
 import com.example.deviceinfodetector.ui.fragment.CacheCleanFragment;
-import com.google.android.material.tabs.TabLayout;
 
 public class MainActivity extends AppCompatActivity {
     private ActivityMainBinding binding;
